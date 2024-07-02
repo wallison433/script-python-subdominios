@@ -9,6 +9,10 @@ Depois
 ```
 cd script-python-subdominios
 ```
+Permissão
+```
+chmod +x subdominios.py
+```
 Baixar os requirementos
 ```
 pip install -r requirements.txt
