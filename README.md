@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 USO
 ```
-python subdominio.py -d site.com -w wordlist.txt
+python subdominios.py -d site.com -w wordlist.txt
 ```
 # OBSERVAÇÃO
 Para usar a wordlist, o arquivo dela precisa estar no mesmo local onde está o script, recomendo usar alguma outra wordlist pois aqui já vem por padrão possui poucos subdomínios.
